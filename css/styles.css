@@ -12,6 +12,7 @@
     flex-direction: column;
     height: 100vh;
     border-bottom: 1px solid #04ABBE;
+    padding: 4% 4%;
 
 }
 .header{
@@ -101,6 +102,7 @@
 /* SERVICIOS */
 #servicios{
     margin-top: 40px;
+    padding: 4% 4%;
 }
 
 #servicios h2{
@@ -137,6 +139,7 @@
 #quienes-somos{
     margin-top: 40px;
     align-self: center;
+    padding: 4% 4%;
 }
 
 #quienes-somos h2{
